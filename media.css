@@ -1,0 +1,351 @@
+@media screen and (max-width: 1440px) and (min-width: 1024px) {
+    .writer-logo {
+        width: 30%;
+    }
+
+    .nav-bar {
+        padding-inline-start: 0%;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+
+    .middle .btn {
+        font-size: 22px;
+    }
+
+    .marketing {
+        font-size: 14px;
+    }
+
+    .social-link h2 {
+        font-weight: 600;
+        font-size: 27px;
+    }
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    .writer-logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-bar {
+        /* padding-inline-start: 0%; */
+        /* margin: auto; */
+        margin-left: 45%;
+    }
+
+    .nav-link {
+        font-weight: 400;
+    }
+
+    .heading {
+        font-size: 43px;
+    }
+
+    .paraghraps {
+        font-size: 22px;
+    }
+
+    .middleheading {
+        font-size: 30px;
+    }
+
+    .middlepara {
+        font-size: 20px;
+    }
+
+    .middle .btn {
+        width: 24%;
+        font-size: 15px;
+        padding: 7px;
+    }
+
+    .marketing {
+        font-size: 8px;
+    }
+
+    .side p {
+        font-size: 10px;
+    }
+
+    .social-link h2 {
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .side-pic {
+        width: 60%;
+    }
+
+    .active {
+        width: 100%;
+    }
+
+    .btn5 {
+        width: 22%;
+    }
+
+
+}
+
+@media screen and (max-width: 767px) and (min-width: 425px) {
+    .writer-logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-bar {
+        padding-inline-start: 0%;
+
+    }
+
+    .nav-link {
+        font-weight: 400;
+        display: none;
+    }
+
+    .heading {
+        font-size: 41px;
+    }
+
+    .paraghraps {
+        font-size: 19px;
+    }
+
+    .btn3 {
+        font-size: 10px;
+    }
+
+    .btn4 {
+        font-size: 10px;
+        padding: 4px;
+    }
+
+    .slider1 .logo2 {
+        width: 100%;
+    }
+
+    .logo2 {
+        width: 100%;
+    }
+
+    .middleheading {
+        font-weight: 600;
+        font-size: 26px;
+    }
+
+    .middlepara {
+        font-size: 17px;
+    }
+
+    .middle .btn {
+        width: 62%;
+        font-size: 24px;
+        padding: 5px;
+    }
+
+    .logo4 {
+        width: 100%;
+    }
+
+    .flex {
+        text-align: center;
+    }
+
+    .payoff p {
+        font-weight: 700;
+        font-size: 18px;
+    }
+
+    .links {
+        display: none;
+    }
+
+    .brooke {
+        width: 39%;
+    }
+
+    .social-link h2 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .side-box h3 {
+        text-align: center;
+    }
+
+    .side-pic {
+        width: 50%;
+    }
+
+    .side-box2 h2 {
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .flex1 {
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .side-button {
+        margin-top: 30px;
+        margin-left: 30%;
+    }
+
+    .btn5 {
+        width: 40%;
+    }
+
+    .btn6 {
+        width: 32%;
+    }
+
+    .side-box2 p {
+        text-align: center;
+    }
+
+    .side-box2 h4 {
+        text-align: center;
+    }
+
+    .bg5 {
+        text-align: center;
+    }
+
+    .active {
+        width: 100%;
+    }
+
+    .pic1 h4 {
+        font-size: 10px;
+    }
+
+    .topheading {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 424px) and (min-width: 375px) and  (min-width:320px) {
+    .writer-logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .nav-bar {
+        display: none;
+        padding-inline-start: 0%;
+    }
+
+    .heading {
+        font-size: 36px;
+    }
+
+    .paraghraps {
+        font-size: 17px;
+    }
+
+    .btn3 {
+        padding: 9px;
+        font-size: 11px;
+    }
+
+    .btn4 {
+        padding: 1px;
+        font-size: 11px;
+    }
+
+    .topheading {
+        font-size: 14px;
+    }
+
+    .slider1 .logo2 {
+        width: 100%;
+    }
+
+    .logo2 {
+        width: 100%;
+    }
+
+    .logo4 {
+        width: 100%;
+    }
+
+    .line-link {
+        display: none;
+    }
+
+    .middleheading {
+        font-size: 27px;
+    }
+
+    .middlepara {
+        font-size: 14px;
+    }
+
+    .logo3 {
+        display: none;
+    }
+
+    .middle .btn {
+        width: 69%;
+        margin: auto;
+        font-size: 21px;
+        font-family: "Poppins", sans-serif;
+        padding: 4px;
+    }
+    .box h2{
+        font-weight: 600;
+    font-size: 43px;
+    text-align: center;
+    }
+    .flex{
+        text-align: center;
+    }
+    .payoff p{
+        font-weight: 600;
+    font-size: 24px;
+    }
+    .picture{
+        display: none;
+    }
+    .social-link h2{
+        font-weight: 600;
+    font-size: 24px;
+    }
+    .pic1{
+        display: none;
+    }
+    .light{
+        margin-top: -80%;
+    }
+    .side-pic{
+        width: 53%;
+    }
+    .side-box2 h2{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .active{
+       width: 100%;
+    }
+    .side-button{
+        margin-left: 30%;
+    }
+    .btn5{
+        width: 45%;
+    }
+    .btn6{
+        width: 45%;
+    }
+    .bg5{
+        text-align: center;
+    }
+}
